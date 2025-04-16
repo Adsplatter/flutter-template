@@ -2,9 +2,9 @@ name: flutter_template
 description: "Adsplatter's Flutter template for new projects."
 version: 1.0.0+1
 
-repository: https://github.com/adsplatter/flutter-network
-homepage: https://github.com/adsplatter/flutter-network
-issue_tracker: https://github.com/adsplatter/flutter-network/issues
+repository: https://github.com/adsplatter/flutter-template
+homepage: https://github.com/adsplatter/flutter-template
+issue_tracker: https://github.com/adsplatter/flutter-template/issues
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
